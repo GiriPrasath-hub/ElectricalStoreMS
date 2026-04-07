@@ -107,9 +107,10 @@ java -cp ".;mysql-connector-j-9.6.0.jar;." ElectricalStoreUI
 
 ## 📸 Screenshot
 
-```
-/screenshots/ui.png
-```
+
+
+![UI](Screenshot/ui.png)
+
 
 ---
 
